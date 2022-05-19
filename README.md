@@ -12,7 +12,7 @@
         TZ_异指.txt                 #10000人的手指的数据，乱序且没有标签
 ```
 
-## Example to Run the Codes
+## 运行
 ```python
 python code.py
 ```
